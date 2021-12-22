@@ -1,0 +1,147 @@
+id,name
+MakeupCartridgeAbsent,MakeupCartridgeAbsent
+MakeupCartridgeEmpty,MakeupCartridgeEmpty
+NA,NA
+Machine Status Changed,Machine Status Changed
+Machine Status Changed by,Machine Status Changed by
+No good shutter,No good shutter
+Proxy1 Up,Proxy1 Up
+Proxy1 System Startup,Proxy1 System Startup
+Printhead 1 Drop Velocity Too Low,Printhead 1 Drop Velocity Too Low
+Head1OverlapsPrintContinue,Head1OverlapsPrintContinue
+Print Control Jet Start,Print Control Jet Start
+System Startup,System Startup
+Printer Online,Printer Online
+Job is Edited,Job is Edited
+InkSystemHumidityStatus,InkSystemHumidityStatus
+Printhead 1 Too Many Holes in Phase Profile,Printhead 1 Too Many Holes in Phase Profile
+FilterDamperReplacementDueSoon,FilterDamperReplacementDueSoon
+User Logout,User Logout
+Head1TooManyHolesInPhase,Head1TooManyHolesInPhase
+Head1ProductDelayTooShort,Head1ProductDelayTooShort
+User Login,User Login
+Head1BuildUpExpired,Head1BuildUpExpired
+MakeupTankLevelLow,MakeupTankLevelLow
+Printer Shutdown,Printer Shutdown
+Proxy2 Up,Proxy2 Up
+Proxy1 Down,Proxy1 Down
+AirFilterReplacementRecommended,AirFilterReplacementRecommended
+Head1MicroReceiveTimeout,Head1MicroReceiveTimeout
+Proxy2 System Shutdown,Proxy2 System Shutdown
+Availability Proxy2 Event,Availability Proxy2 Event
+Proxy2 Down,Proxy2 Down
+Head1ShockLevelStatus,Head1ShockLevelStatus
+Print Control Jet Stop,Print Control Jet Stop
+Too many bad pixels,Too many bad pixels
+Head1Overspeed,Head1Overspeed
+Head1NoTimeToPhase,Head1NoTimeToPhase
+Head1TemperatureTooLow,Head1TemperatureTooLow
+InkViscosityTooLow,InkViscosityTooLow
+17097014C49ZH,Printer-39
+19044002C49ZH,Printer-40
+19004006C49ZH,Printer-41
+19004010C49ZH,Printer-42
+19004014C49ZH,Printer-43
+19004016C49ZH,Printer-44
+19004017C49ZH,Printer-45
+17067002C49ZH,Printer-46
+17067003C49ZH,Printer-47
+17068007C49ZH,Printer-48
+17070003C49ZH,Printer-49
+17070004C49ZH,Printer-50
+17074003C49ZH,Printer-51
+17139065C49ZH,Printer-52
+18071002C49ZH,Printer-53
+19270002C49ZH,Printer-54
+19288001C49ZH,Printer-55
+17305006C49ZH,Printer-56
+17325011C49ZH,Printer-57
+17325012C49ZH,Printer-58
+19057002C49ZH,Printer-59
+19071002C49ZH,Printer-60
+19078004C49ZH,Printer-61
+17129025C49ZH,Printer-62
+17171050C49ZH,Printer-63
+17171057C49ZH,Printer-64
+17171060C49ZH,Printer-65
+18101002C49ZH,Printer-66
+18009001C49ZH,Printer-67
+19316002C49ZH,Printer-68
+18206060C49ZH,Printer-69
+18010001C49ZH,Printer-70
+18038012C49ZH,Printer-71
+18059009C49ZH,Printer-72
+17171049C49ZH,Printer-73
+17171058C49ZH,Printer-74
+17179025C49ZH,Printer-75
+17179026C49ZH,Printer-76
+17179035C49ZH,Printer-77
+17179040C49ZH,Printer-78
+17255002C49ZH,Printer-79
+17269002C49ZH,Printer-80
+17269005C49ZH,Printer-81
+17269006C49ZH,Printer-82
+17269009C49ZH,Printer-83
+18038007C49ZH,Printer-84
+18038008C49ZH,Printer-85
+17075008C49ZH,Printer-86
+17283005C49ZH,Printer-87
+17283007C49ZH,Printer-88
+17283009C49ZH,Printer-89
+17283010C49ZH,Printer-90
+17283012C49ZH,Printer-91
+17283018C49ZH,Printer-92
+17283020C49ZH,Printer-93
+18010007C49ZH,Printer-94
+17225005C49ZH,Printer-95
+17255003C49ZH,Printer-96
+19246003C49ZH,Printer-97
+18129014C49ZH,Printer-98
+18157010C49ZH,Printer-99
+17129031C49ZH,Printer-100
+17129035C49ZH,Printer-101
+17129038C49ZH,Printer-102
+17171003C49ZH,Printer-103
+17179009C49ZH,Printer-104
+17179012C49ZH,Printer-105
+17179013C49ZH,Printer-106
+17179014C49ZH,Printer-107
+17179033C49ZH,Printer-108
+17326013C49ZH,Printer-109
+17326015C49ZH,Printer-110
+17326017C49ZH,Printer-111
+17326018C49ZH,Printer-112
+17326019C49ZH,Printer-113
+18143005C49ZH,Printer-114
+18143009C49ZH,Printer-115
+18165012C49ZH,Printer-116
+18023003C49ZH,Printer-117
+18221003C49ZH,Printer-118
+17129004C49ZH,Printer-119
+17179061C49ZH,Printer-120
+18073006C49ZH,Printer-121
+18087010C49ZH,Printer-122
+18100005C49ZH,Printer-123
+18101011C49ZH,Printer-124
+17326025C49ZH,Printer-125
+17326027C49ZH,Printer-126
+18033001C49ZH,Printer-127
+18067002C49ZH,Printer-128
+19084011C49ZH,Printer-129
+19084015C49ZH,Printer-130
+19084009C49ZH,Printer-131
+19084007C49ZH,Printer-132
+17179031C49ZH,Printer-133
+TS16200001C49TS,Printer-134
+18247001C49ZH,Printer-135
+18247004C49ZH,Printer-136
+18206003C49ZH,Printer-137
+18206007C49ZH,Printer-138
+18206013C49ZH,Printer-139
+18206017C49ZH,Printer-140
+18206018C49ZH,Printer-141
+18206024C49ZH,Printer-142
+18206025C49ZH,Printer-143
+18057002C49ZH,Printer-144
+18057005C49ZH,Printer-145
+18057007C49ZH,Printer-146
