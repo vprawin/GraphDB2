@@ -49,14 +49,12 @@ WARNING,IS_OF_EVENT_NAME,Head1TemperatureTooLow,{}
 WARNING,IS_OF_EVENT_NAME,InkViscosityTooLow,{}
 MakeupCartridgeAbsent,IS_FROM_#SERIAL,17341001C49ZH,"{ lifestarts: 1456099200, lifefinish: 1758844800, installed: 1456099200 }"
 MakeupCartridgeEmpty,IS_FROM_#SERIAL,17341001C49ZH,"{ lifestarts: 1456099200, lifefinish: 1758844800, installed: 1456099200 }"
-NA,IS_FROM_#SERIAL,17341002C49ZH,"{ lifestarts: 1456099200, lifefinish: 1758844800, installed: 1456099200 }"
 Machine Status Changed,IS_FROM_#SERIAL,17341003C49ZH,"{ lifestarts: 1456099200, lifefinish: 1758844800, installed: 1456099200 }"
 Machine Status Changed by,IS_FROM_#SERIAL,17341003C49ZH,"{ lifestarts: 1456099200, lifefinish: 1758844800, installed: 1456099200 }"
 No good shutter,IS_FROM_#SERIAL,17341003C49ZH,"{ lifestarts: 1456099200, lifefinish: 1758844800, installed: 1456099200 }"
 MakeupCartridgeAbsent,IS_FROM_#SERIAL,17341004C49ZH,"{ lifestarts: 1456099200, lifefinish: 1758844800, installed: 1456099200 }"
 Machine Status Changed,IS_FROM_#SERIAL,17341004C49ZH,"{ lifestarts: 1456099200, lifefinish: 1758844800, installed: 1456099200 }"
 Machine Status Changed by,IS_FROM_#SERIAL,17341004C49ZH,"{ lifestarts: 1456099200, lifefinish: 1758844800, installed: 1456099200 }"
-NA,IS_FROM_#SERIAL,17341005C49ZH,"{ lifestarts: 1456099200, lifefinish: 1758844800, installed: 1456099200 }"
 17341001C49ZH,IS_OF_MODEL,VJ1860,{}
 17341002C49ZH,IS_OF_MODEL,VJ1860,{}
 17341003C49ZH,IS_OF_MODEL,VJ1860,{}
